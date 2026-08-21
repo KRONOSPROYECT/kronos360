@@ -1,0 +1,2 @@
+[console_scripts]
+kronos360 = kronos360.cli:main

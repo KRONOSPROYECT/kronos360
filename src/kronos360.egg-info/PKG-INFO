@@ -1,3 +1,13 @@
+Metadata-Version: 2.4
+Name: kronos360
+Version: 0.1.0
+Summary: Crypto-agile evidence records with a post-quantum migration path
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: ruff>=0.6; extra == "dev"
+
 # KRONOS 360
 
 Base de proyecto para una plataforma de evidencias digitales con arquitectura **crypto-agile** y plan de migración poscuántica.
